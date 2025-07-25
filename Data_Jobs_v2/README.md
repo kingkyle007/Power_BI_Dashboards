@@ -31,7 +31,7 @@ This project brought together a range of essential Power BI capabilities. Here�
 🎚️ Slicers: Enabled real-time filtering by job titles and other key attributes.
 
 🔘 Buttons & Bookmarks: Facilitated seamless navigation and supported drill-throughs for deeper analysis.
-## Dashboard Overview (Version 2.0)
+## Dashboard Overview (Version 2.0 Single-Page Focus)
 
 This updated version streamlines the dashboard into a single, focused view, delivering the most essential job market insights directly to job seekers in one place.
 ![Dashboard Page 1](/Images/Project2_Page1.png)
