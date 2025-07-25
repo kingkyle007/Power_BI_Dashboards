@@ -41,4 +41,3 @@ This is the detailed insights page. From the main dashboard, users can drill thr
 
 ## Conclusion
 This dashboard demonstrates how Power BI can turn raw job listing data into a valuable resource for career exploration. Users can interact with the visuals, slicing, filtering, and drilling down to gain insights that support smarter career decisions.
-
