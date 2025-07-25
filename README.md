@@ -5,7 +5,7 @@ This repository showcases a series of Power BI dashboards I’ve built as part o
 # Featured Dashboards
 Feel free to explore the dashboards listed below. Each one includes its own README with a breakdown of the design process, tools used, and unique features.
 ## 📈 Data Jobs Dashboard (V1 - Comprehensive Exploration)
-![Data Jobs Dashboard](images/Project1_Page1.png)
+![Data Jobs Dashboard](/Data_Jobs_v1/Data%20Jobs%20Dashboard.pbix)
 
 ## 🧰 Skills & Tools Applied
 ⚙️ Data Preparation (Power Query): Cleaned, transformed, and enriched the dataset for analysis.
